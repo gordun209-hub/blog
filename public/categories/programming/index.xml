@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>programming on ProgrammingBlog</title>
+    <link>localhost:1313/categories/programming/</link>
+    <description>Recent content in programming on ProgrammingBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Aug 2022 17:06:50 +0300</lastBuildDate><atom:link href="localhost:1313/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Languages</title>
+      <link>localhost:1313/posts/best-languages/</link>
+      <pubDate>Fri, 26 Aug 2022 17:06:50 +0300</pubDate>
+      
+      <guid>localhost:1313/posts/best-languages/</guid>
+      <description>Best programming Languages Haskell Lisp Rust Others </description>
+    </item>
+    
+    <item>
+      <title>Reasons why css sucks and not related to programming whatsoever</title>
+      <link>localhost:1313/posts/first/</link>
+      <pubDate>Fri, 26 Aug 2022 16:25:29 +0300</pubDate>
+      
+      <guid>localhost:1313/posts/first/</guid>
+      <description>This blogpost is about how bad css/html are. If you&amp;rsquo;re soydev or down bad with css and html, please ignore this post Top 3 reasons why css sucks it sucks it&amp;rsquo;s not programming it&amp;rsquo;s cringe </description>
+    </item>
+    
+  </channel>
+</rss>

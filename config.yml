@@ -1,0 +1,37 @@
+baseURL: "localhost:1313/"
+title: ProgrammingBlog
+paginate: 5
+languageCode: en-us
+theme: PaperMod
+
+menu: 
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+
+params:
+  homeInfoParams:
+    Title: 'Blogs by developer'
+    Content: 'My blog about programming'
+  socialIcons:
+    - name: facebook
+      url: "https://facebook.com/"
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: github
+      url: "https://github.com/gordun209-hub"
+  cover:
+    linkFullImages: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
