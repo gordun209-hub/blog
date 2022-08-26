@@ -1,5 +1,5 @@
 ---
-title: "best languages"
+title: "Boosting Productivity"
 date: 2022-08-26t17:06:50+03:00
 tags: ["languages", "best of", "environment"]
 categories: ["programming", "languages","gnu/linux"]
