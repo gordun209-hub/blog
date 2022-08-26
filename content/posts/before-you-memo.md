@@ -2,6 +2,8 @@
 title: 'Before You memo()'
 date: '2022-08-23'
 spoiler: "Rendering optimizations that come naturally."
+tags: ["programming","react","performance"]
+categories: ["react","web"]
 ---
 
 There are many articles written about React performance optimizations. In general, if some state update is slow, you need to:
@@ -37,6 +39,7 @@ function ExpensiveTree() {
   while (performance.now() - now < 100) {
     // Artificial delay -- do nothing for 100ms
   }
+  archives: []
   return <p>I am a very slow component tree.</p>;
 }
 ```
@@ -51,7 +54,7 @@ I could [put `memo()` on it](https://codesandbox.io/s/amazing-shtern-61tu4?file=
 
 If you look at the rendering code closer, you'll notice only a part of the returned tree actually cares about the current `color`:
 
-```jsx{2,5-6}
+```jsx
 export default function App() {
   let [color, setColor] = useState('red');
   return (
