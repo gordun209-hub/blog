@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>best of on Tech Blog</title>
-    <link>https://preeminent-choux-174c6c.netlify.app/tags/best-of/</link>
-    <description>Recent content in best of on Tech Blog</description>
+    <title>environment on Tech Blog</title>
+    <link>https://preeminent-choux-174c6c.netlify.app/tags/environment/</link>
+    <description>Recent content in environment on Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://preeminent-choux-174c6c.netlify.app/tags/best-of/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>best languages</title>
-      <link>https://preeminent-choux-174c6c.netlify.app/posts/best-languages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://preeminent-choux-174c6c.netlify.app/posts/best-languages/</guid>
-      <description>Best programming Languages Haskell Lisp Rust Others </description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://preeminent-choux-174c6c.netlify.app/tags/environment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>best languages</title>
       <link>https://preeminent-choux-174c6c.netlify.app/posts/best-tools-for-programming/</link>

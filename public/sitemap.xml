@@ -2,42 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost:1313/posts/best-languages/</loc>
-    <lastmod>2022-08-26T17:06:50+03:00</lastmod>
-  </url><url>
-    <loc>localhost:1313/tags/best-of/</loc>
-    <lastmod>2022-08-26T17:06:50+03:00</lastmod>
-  </url><url>
-    <loc>localhost:1313/categories/</loc>
-    <lastmod>2022-08-26T17:06:50+03:00</lastmod>
-  </url><url>
-    <loc>localhost:1313/tags/languages/</loc>
-    <lastmod>2022-08-26T17:06:50+03:00</lastmod>
-  </url><url>
-    <loc>localhost:1313/categories/languages/</loc>
-    <lastmod>2022-08-26T17:06:50+03:00</lastmod>
-  </url><url>
-    <loc>localhost:1313/posts/</loc>
-    <lastmod>2022-08-26T17:06:50+03:00</lastmod>
-  </url><url>
-    <loc>localhost:1313/categories/programming/</loc>
-    <lastmod>2022-08-26T17:06:50+03:00</lastmod>
-  </url><url>
-    <loc>localhost:1313/</loc>
-    <lastmod>2022-08-26T17:06:50+03:00</lastmod>
-  </url><url>
-    <loc>localhost:1313/tags/</loc>
-    <lastmod>2022-08-26T17:06:50+03:00</lastmod>
-  </url><url>
-    <loc>localhost:1313/tags/css/</loc>
+    <loc>https://preeminent-choux-174c6c.netlify.app/categories/</loc>
     <lastmod>2022-08-26T16:25:29+03:00</lastmod>
   </url><url>
-    <loc>localhost:1313/tags/html/</loc>
+    <loc>https://preeminent-choux-174c6c.netlify.app/tags/css/</loc>
     <lastmod>2022-08-26T16:25:29+03:00</lastmod>
   </url><url>
-    <loc>localhost:1313/posts/first/</loc>
+    <loc>https://preeminent-choux-174c6c.netlify.app/tags/html/</loc>
     <lastmod>2022-08-26T16:25:29+03:00</lastmod>
   </url><url>
-    <loc>localhost:1313/archives/</loc>
+    <loc>https://preeminent-choux-174c6c.netlify.app/posts/</loc>
+    <lastmod>2022-08-26T16:25:29+03:00</lastmod>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/categories/programming/</loc>
+    <lastmod>2022-08-26T16:25:29+03:00</lastmod>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/posts/first/</loc>
+    <lastmod>2022-08-26T16:25:29+03:00</lastmod>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/tags/</loc>
+    <lastmod>2022-08-26T16:25:29+03:00</lastmod>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/</loc>
+    <lastmod>2022-08-26T16:25:29+03:00</lastmod>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/archives/</loc>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/posts/best-languages/</loc>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/posts/best-tools-for-programming/</loc>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/tags/best-of/</loc>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/tags/environment/</loc>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/categories/gnu/linux/</loc>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/tags/languages/</loc>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/categories/languages/</loc>
+  </url><url>
+    <loc>https://preeminent-choux-174c6c.netlify.app/search/</loc>
   </url>
 </urlset>

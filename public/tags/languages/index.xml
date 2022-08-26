@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>languages on ProgrammingBlog</title>
-    <link>localhost:1313/tags/languages/</link>
-    <description>Recent content in languages on ProgrammingBlog</description>
+    <title>languages on Tech Blog</title>
+    <link>https://preeminent-choux-174c6c.netlify.app/tags/languages/</link>
+    <description>Recent content in languages on Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 26 Aug 2022 17:06:50 +0300</lastBuildDate><atom:link href="localhost:1313/tags/languages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://preeminent-choux-174c6c.netlify.app/tags/languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Best Languages</title>
-      <link>localhost:1313/posts/best-languages/</link>
-      <pubDate>Fri, 26 Aug 2022 17:06:50 +0300</pubDate>
+      <title>best languages</title>
+      <link>https://preeminent-choux-174c6c.netlify.app/posts/best-languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/posts/best-languages/</guid>
+      <guid>https://preeminent-choux-174c6c.netlify.app/posts/best-languages/</guid>
       <description>Best programming Languages Haskell Lisp Rust Others </description>
+    </item>
+    
+    <item>
+      <title>best languages</title>
+      <link>https://preeminent-choux-174c6c.netlify.app/posts/best-tools-for-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://preeminent-choux-174c6c.netlify.app/posts/best-tools-for-programming/</guid>
+      <description>These are tools used by me for productive boost Editor That part is easy, simply use vim for production boost. Other great editor is GNU/Emacs but it&amp;rsquo;s a GUI, you can use it inside terminal but that is not recommended. There is also neovim, it&amp;rsquo;s fork of vim and integrated with lua programming language. One can simply use a real programming language for configuring neovim.
+Hardest part when starting to use vim/neovim is keybindings.</description>
     </item>
     
   </channel>

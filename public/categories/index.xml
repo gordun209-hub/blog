@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on ProgrammingBlog</title>
-    <link>localhost:1313/categories/</link>
-    <description>Recent content in Categories on ProgrammingBlog</description>
+    <title>Categories on Tech Blog</title>
+    <link>https://preeminent-choux-174c6c.netlify.app/categories/</link>
+    <description>Recent content in Categories on Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Aug 2022 17:06:50 +0300</lastBuildDate><atom:link href="localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Aug 2022 16:25:29 +0300</lastBuildDate><atom:link href="https://preeminent-choux-174c6c.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>languages</title>
-      <link>localhost:1313/categories/languages/</link>
-      <pubDate>Fri, 26 Aug 2022 17:06:50 +0300</pubDate>
+      <title>programming</title>
+      <link>https://preeminent-choux-174c6c.netlify.app/categories/programming/</link>
+      <pubDate>Fri, 26 Aug 2022 16:25:29 +0300</pubDate>
       
-      <guid>localhost:1313/categories/languages/</guid>
+      <guid>https://preeminent-choux-174c6c.netlify.app/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>programming</title>
-      <link>localhost:1313/categories/programming/</link>
-      <pubDate>Fri, 26 Aug 2022 17:06:50 +0300</pubDate>
+      <title>gnu/linux</title>
+      <link>https://preeminent-choux-174c6c.netlify.app/categories/gnu/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/categories/programming/</guid>
+      <guid>https://preeminent-choux-174c6c.netlify.app/categories/gnu/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>languages</title>
+      <link>https://preeminent-choux-174c6c.netlify.app/categories/languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://preeminent-choux-174c6c.netlify.app/categories/languages/</guid>
       <description></description>
     </item>
     

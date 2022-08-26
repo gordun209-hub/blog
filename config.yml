@@ -1,9 +1,13 @@
 baseURL: "https://preeminent-choux-174c6c.netlify.app"
-title: ProgrammingBlog
+title: Tech Blog
 paginate: 5
 languageCode: en-us
 theme: PaperMod
-
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
 menu: 
   main:
     - identifier: categories
@@ -18,11 +22,16 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
 
 params:
+  ShowToc: true
   homeInfoParams:
     Title: 'Blogs by developer'
-    Content: 'My blog about programming'
+    Content: 'My blog about programming, linux and developer environment'
   socialIcons:
     - name: facebook
       url: "https://facebook.com/"
@@ -32,6 +41,6 @@ params:
       url: "https://github.com/gordun209-hub"
   cover:
     linkFullImages: true
-  ShowBreadCrumbs: true
-  ShowReadingTime: true
-  ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowReadingTime: true
+    ShowPostNavLinks: true
